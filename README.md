@@ -1,5 +1,8 @@
-## Hi there 👋
-
+My interests are:
+- Qualitative properties of elliptic partial differential equations;
+- Computer assisted proofs (particularly in Mathematical Analysis);
+- Scientific programming;
+- Functional programming and type systems.
 <!--
 **Chris00/Chris00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
